@@ -1,0 +1,37 @@
+[
+    {
+        "name": "ihsan",
+        "surname" : "akk",
+        "department" : "IT"
+    },
+    {
+        "name": "arif",
+        "surname" : "esn",
+        "department" : "HR"
+    },
+    {
+        "name": "hamza",
+        "surname" : "yvz",
+        "department" : "ER"
+    },
+    {
+        "name": "kadir",
+        "surname" : "bsy",
+        "department" : "FG"
+    },
+    {
+        "name": "jack",
+        "surname" : "ldn",
+        "department" : "IT"
+    },
+    {
+        "name": "linda",
+        "surname" : "snm",
+        "department" : "JU"
+    },
+    {
+        "name": "mary",
+        "surname" : "mkl",
+        "department" : "HR"
+    }
+]
